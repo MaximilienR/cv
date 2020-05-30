@@ -1,0 +1,24 @@
+ .fond {
+    background: center/100% url("../image/monfond.jpg") no-repeat ;
+    height: 700px;} 
+.carré {
+    margin: 0 auto;
+    margin-bottom: 5000px;
+    width: 1000px;
+    height: 350px;
+    background: rgba(115, 115, 115, 0.5);
+            }
+.f1
+        {width: 150px;
+        height: 150px;
+        margin-left: 450px;}
+
+.met  {text-align: center;}
+.py {width: 150px;
+    height: 150px;}
+.autre {width: 0px;}
+.parcours {background-color: #D7E20F;
+           font-size: large ;}
+.contact {background-color: #4579b4;}
+.qui {background-color:#4579b4 ;
+      font-size: ;}
